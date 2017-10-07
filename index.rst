@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-读书笔记
-========
+2017 读书笔记
+=============
 
 .. toctree::
    :maxdepth: 1
@@ -14,3 +14,8 @@
    pages/moon_and_six_pence.rst
    pages/journey_under_the_midnight_sun.rst
 
+游记
+====
+
+.. toctree::
+   :maxdepth: 1
